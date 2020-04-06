@@ -1,7 +1,8 @@
 h1 
 {
     text-align: center;
-    background-color: lavender;
+    color: #fff!important;
+    background-color: #4CAF50!important;
 }
 
 .ui-widget-header {
