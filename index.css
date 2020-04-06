@@ -41,3 +41,7 @@ h1
     position: relative;
     padding: .1em;
 }
+#tabs-main {
+    border: 2px solid green;
+    height: 400px;
+}
