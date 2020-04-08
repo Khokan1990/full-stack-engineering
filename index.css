@@ -41,7 +41,13 @@ h1
     position: relative;
     padding: .1em;
 }
-#tabs-main {
+#tabs-main, .div-main {
     border: 2px solid green;
     height: 400px;
+}
+.importantLinks
+{
+    background-color: rgb(248, 241, 241);
+    font-size: medium;
+    font-weight: bold;
 }
